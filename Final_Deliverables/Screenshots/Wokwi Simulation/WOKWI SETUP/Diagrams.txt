@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "author": "6118_Praveen A",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": 22.67, "left": -84.67, "attrs": {} },
+    { "type": "wokwi-hc-sr04", "id": "ultrasonic1", "top": -84.36, "left": 52.83, "attrs": {} }
+  ],
+  "connections": [
+    [ "esp:TX0", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX0", "$serialMonitor:TX", "", [] ],
+    [ "ultrasonic1:ECHO", "esp:D18", "green", [ "v97.23", "h-120.89" ] ],
+    [ "ultrasonic1:TRIG", "esp:D5", "green", [ "v0" ] ],
+    [ "esp:VIN", "ultrasonic1:VCC", "red", [ "h204.5", "v-171.8" ] ],
+    [ "esp:GND.1", "ultrasonic1:GND", "black", [ "h131.54", "v-159.64" ] ]
+  ]
+}
