@@ -1,7 +1,26 @@
-# IBM-Project-30671-1660153225
-Smart Waste Management System For Metropolitan Cities
-Team Members 👥👥
-            PRAVEEN A
-            RANJITH T
-            ROHITH KUMAR R
-            RAJSRIDHAR J
+                   INTRODUCTION
+
+           IBM-Project-30671-1660153225
+
+ SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES
+
+               DOMAIN: INTERNET OF THINGS (IOT)  
+
+               BATCH NO: B3-3M5E
+
+               TEAM ID: PNT2022TMID16132 
+
+      TEAM MEMBERS 👨‍🎓: 
+
+        1.	 PRAVEEN A
+        2.	 RAJ SRIDHAR J
+        3.	 ROHITH KUMAR R
+        4.	 RANJITH T
+
+COLLEGE NAME: R M K ENGINEERING COLLEGE
+
+TEAM MENTOR: SATHYA VIGNESH G
+
+
+
+ 
