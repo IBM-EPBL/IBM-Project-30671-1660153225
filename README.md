@@ -1,14 +1,14 @@
-                   INTRODUCTION
+                       INTRODUCTION
 
-           IBM-Project-30671-1660153225
+               IBM-Project-30671-1660153225
 
- SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES
+      SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES
 
-               DOMAIN: INTERNET OF THINGS (IOT)  
+                 DOMAIN: INTERNET OF THINGS (IOT)  
 
-               BATCH NO: B3-3M5E
+                 BATCH NO: B3-3M5E
 
-               TEAM ID: PNT2022TMID16132 
+                 TEAM ID: PNT2022TMID16132 
 
       TEAM MEMBERS 👨‍🎓: 
 
